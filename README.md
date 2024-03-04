@@ -10,4 +10,4 @@ This website serves as a digital portfolio and showcase of my work, skills, and 
 - CSS frameworks: For responsive and mobile-friendly design.
 
 ## License
-This project is licensed under the CCPL License.
+This project is licensed under the [CCPL License](https://github.com/zthki06/zthki06.github.io/blob/main/LICENSE.txt).
